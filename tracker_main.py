@@ -1,6 +1,4 @@
 import math
-import time
-
 
 class EuclideanDistTracker:
     def __init__(self):
@@ -57,7 +55,6 @@ class EuclideanDistTracker:
                             self.l_id_count += 1
 
                         t = (iframe - iframe_pt) / fps
-                        print(t)
                         v = (4.5 / t) * 3.6 # 4.4m
                         self.vehicle_speeds[id] = "{:.2f}".format(v)
                         iframe_pt = iframe
