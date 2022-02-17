@@ -2,8 +2,6 @@ import math
 
 class EuclideanDistTracker:
     def __init__(self):
-        # Store the center positions of the objects
-        self.center_points = {}
         # Store the positions and size of the objects
         self.vehicle_points = {}
         # Store frame_usage of the objects
