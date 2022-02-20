@@ -2,7 +2,7 @@
 
 สามารถตรวจจับรถและทำการนับรถ แยกรถตามขนาด และวัดความเร็ว
 
-- วิดีโอ overview : [Video Link]()
+- วิดีโอ overview : [Video Link](https://drive.google.com/file/d/1DOFeh6JZ0NtoCJVOz-mTeErNk8mat5g8/view?usp=sharing)
 - วิดีโอนำเสนอ : [Video Link]()
 
 ## ทำ Image Processing โดยใช้ cv2
